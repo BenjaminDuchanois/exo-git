@@ -11,10 +11,13 @@
 	<p>contact c</p>
 	<p>contact d</p>
 	<p>contact e</p>
-	<p>contact f</p>
 <<<<<<< HEAD
->>>>>>> 3d0bb2e (Ajout de la page de contact sur la bonne branche)
+<<<<<<< HEAD
 =======
->>>>>>> b7f1219 (Changement couleur)
+	<p>contact f</p>
+>>>>>>> page-contact
+=======
+
+>>>>>>> page-contact
 </body>
 </html>
