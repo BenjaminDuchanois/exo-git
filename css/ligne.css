@@ -11,9 +11,15 @@ h1{
 	text-align:center;
 
 
+<<<<<<< HEAD
 menu{
 	background-color : #0F0;
 	color : #000;
 	text-align : center;
 	font-size : 15px;
+=======
+copyright{
+	background-color : #FFF;
+	color : #000;
+>>>>>>> aec912d (Changement du style du copyright)
 }
